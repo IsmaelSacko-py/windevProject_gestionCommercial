@@ -1,0 +1,11 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Produit		NFI		nouveau fichier
+Client		NFI		nouveau fichier
+Facture		NFI		nouveau fichier
+Detail		NFI		nouveau fichier
+Parametrage		NFI		nouveau fichier
+Production		NFI		nouveau fichier
+Contrainte_Produit_Detail		NWL	Produit (IDProduit) et Detail (IDProduit)	Nouvelle liaison entre les fichiers Produit (IDProduit) et Detail (IDProduit)
+Contrainte_Facture_Detail		NWL	Facture (IDFacture) et Detail (IDFacture)	Nouvelle liaison entre les fichiers Facture (IDFacture) et Detail (IDFacture)
+Contrainte_Produit_Production		NWL	Produit (IDProduit) et Production (IDProduit)	Nouvelle liaison entre les fichiers Produit (IDProduit) et Production (IDProduit)
+Contrainte_Facture_Client		NWL	Client (IDClient) et Facture (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Facture (IDClient)

@@ -1,0 +1,3 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Client		TAR	132	nouvelle taille enregistrement : 132
+Client	IDProduit	RUB-		la clé IDProduit est supprimée
