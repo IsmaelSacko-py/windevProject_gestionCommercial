@@ -3,3 +3,5 @@
 ANALYSISGUID=1	;Analysis GUID
 LOCALIZATION_UTF8=5E285FDB15324FAB915F53BACE182F99	Client	C:\Mes Projets\windevProject_gestionCommercial\Exe\Client.fic
 LOCALIZATION_UTF8=BFDA78446E484669A21F6E32A8BE2869	Produit	C:\Mes Projets\windevProject_gestionCommercial\Exe\Produit.fic
+LOCALIZATION_UTF8=6BC405DC3B8D40BA937F177B781E91E2	Facture	C:\Mes Projets\windevProject_gestionCommercial\Exe\Facture.fic
+LOCALIZATION_UTF8=2AD414CEAAFF44EDB85F86A2607D73FA	Production	C:\Mes Projets\windevProject_gestionCommercial\Exe\Production.fic
